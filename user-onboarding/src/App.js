@@ -1,5 +1,6 @@
 import React from "react";
 import FormikFrom from "./components/TheForm";
+import "./App.css";
 
 function App() {
   return (

@@ -1,0 +1,22 @@
+/* Universal Styling */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+label {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+body {
+  background: whitesmoke;
+}
+
+.App {
+  text-align: center;
+}
